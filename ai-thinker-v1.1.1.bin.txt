@@ -1,0 +1,4 @@
+AT version:0.25.0.0(Jun  5 2015 16:27:16)
+SDK version:1.1.1
+Ai-Thinker Technology Co. Ltd.
+Jun 23 2015 23:23:50
